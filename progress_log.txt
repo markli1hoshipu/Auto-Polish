@@ -1,0 +1,14 @@
+用于记录项目进程
+
+2025/05/23
+第一周：
+熟悉各个环境
+熟悉VScode(IDE), Python, GIT (github)
+了解一下各类lib的调用，class的写法，function，loop写法
+重点看一下openai库的调用
+作业：
+1. 完成一个读取csv的程序，实现账目求和， 分类项目求和，把结果输出(print)，储存到新的week1/下的txt文档中；作为一个单独的py file
+2. 使用git clone这个respository， 拉去自己的branch，上传pyfile，然后申请branch merge合并
+Due date: May 31, 13:00 pm
+
+
